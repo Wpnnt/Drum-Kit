@@ -3,7 +3,7 @@
 ## <h4 align="center"> Check de live project here ---> <a href="https://wpnnt.github.io/Drum-Kit/">Live Project</a> </h4>
 ![Resultado final do projeto](Preview.png)
 
-## 💼 Tecnologias utilizadas
+## 💼 Technologies
 
 For the development of this website I used the following technologies:
 
@@ -11,7 +11,7 @@ For the development of this website I used the following technologies:
 - CSS5
 - HTML
 
-<h2> 🐱‍💻Autor</h2>
+<h2> 🐱‍💻Author</h2>
 <table>
   <tr>
     <td align="center">
